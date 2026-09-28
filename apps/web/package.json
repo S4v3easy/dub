@@ -70,7 +70,6 @@
     "@visx/curve": "^3.3.0",
     "@visx/geo": "^2.10.0",
     "@visx/gradient": "^3.3.0",
-    "@visx/grid": "^2.12.2",
     "@visx/group": "^3.3.0",
     "@visx/responsive": "^2.10.0",
     "@visx/scale": "^3.3.0",
